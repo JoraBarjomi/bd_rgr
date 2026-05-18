@@ -25,11 +25,10 @@
       <ul>
         <li><a href="#описание-предметной-области">Описание предметной области</a></li>
         <li><a href="#функциональные-задачи">Функциональные задачи</a></li>
-        <li><a href="#логическая-структура-бд">Логическая структура БД</a></li>
         <li><a href="#технологии">Технологии</a></li>
       </ul>
     </li>
-    <li><a href="#структура-проекта">Структура проекта</a></li>
+    <li><a href="#о-проекте">Структура проекта</a></li>
     <li><a href="#быстрый-старт">Быстрый старт</a>
       <ul>
         <li><a href="#требования">Требования</a></li>
@@ -91,12 +90,11 @@ TODO
 
 ### Авторы:
 
-<a href="https://github.com/github.com/JoraBarjomi/bd_rgr/graphs/contributors">
+<a href="https://github.com/JoraBarjomi/bd_rgr/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=JoraBarjomi/bd_rgr" alt="contrib.rocks image" />
 </a>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 [PGSQL]: https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white
 [Docker]: https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white
 [Drawio]: https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white
+
